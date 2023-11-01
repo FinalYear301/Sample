@@ -8,4 +8,3 @@ def samuel(request):
     pass
 
 
-print("Come on")
