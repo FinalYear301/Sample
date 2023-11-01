@@ -6,3 +6,6 @@ def index(request):
 
 def samuel(request):
     pass
+
+
+print("Come on")
